@@ -23,6 +23,9 @@ appDate.expenses.willCost = willCost2;
 alert(appDate.budget / 30);
 
 
+
+
+
 /*'use strict';
 
 
